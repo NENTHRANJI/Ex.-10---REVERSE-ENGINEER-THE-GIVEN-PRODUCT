@@ -32,11 +32,15 @@
 
 ## Input:
 
+![IMS](https://github.com/user-attachments/assets/12a30952-3dbc-4470-b47c-8d80895624f0)
+
 ### Output:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f8353d5-52d0-489a-92bd-70cad0f9f22a" />
 
-### Name:
-### Register Number:
+
+### Name:NENTHRANJI S
+### Register Number:212224040216
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
